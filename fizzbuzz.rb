@@ -9,7 +9,8 @@ def fizzbuzz(int)
   elsif int % 5  == 0 
     return "Buzz"
   else 
-    nill
+    return nill
+    
  
   
 end
